@@ -1,5 +1,12 @@
 # git-ingsoft-pao
-# Participantes
-Alvarado Chavez Margiory
-Crisostomo Rodriguez Milloshy
-Maguiña Aranda Paola
+## Participantes:
+- Margiory Alvarado Chavez
+- Milloshy Crisostomo Rodriguez
+- Paola Maguiña Aranda
+## Texto de los comandos de commit / rebase / merge de los terminales de ambos participantes
+
+
+
+
+
+
