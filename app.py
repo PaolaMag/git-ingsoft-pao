@@ -13,6 +13,5 @@ app = Flask(__name__)
 
 def hello():
 
- 
 
     return '<h1>Hello, World! desde Feature2</h1>'
