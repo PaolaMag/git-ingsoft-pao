@@ -9,6 +9,7 @@ git branch feature1
 git checkout feature1
 git commit -m "Mi modificacion"
 git rebase master
+Merge branch 'master' into feature1
 
 
 
