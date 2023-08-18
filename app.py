@@ -13,7 +13,5 @@ app = Flask(__name__)
 
 def hello():
 
- 
 
-    return '<h1>Hello, World!, desde el branch feature1</h1>'
-
+    return '<h1>Hello, World! desde Feature2</h1>'
